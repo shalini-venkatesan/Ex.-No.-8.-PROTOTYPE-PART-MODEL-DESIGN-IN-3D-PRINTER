@@ -48,8 +48,8 @@
 ## Output:
 
 ```
- Name: G.Chethan kumar
- Register Number: 212222240022
+ Name: SHALINI V
+ Register Number: 212222240096
 ```
 ![img8](https://github.com/Gchethankumar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118348224/50812c6f-dd26-42eb-8500-1e94e8b71978)
 
